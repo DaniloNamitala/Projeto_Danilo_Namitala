@@ -17,7 +17,11 @@ public:
     std::cout << "MB1\n";
   }
 
-    void MB2() {
+  void MB2() {
     std::cout << "MB2\n";
+  }
+
+  void MB3() {
+    std::cout << "MB3\n";
   }
 };
