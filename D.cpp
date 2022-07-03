@@ -13,4 +13,8 @@ public:
     void MD2() {
     std::cout << "MD2\n";
   }
+  
+  void MD4() {
+    std::cout << "MD4\n";
+  }
 };
