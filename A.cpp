@@ -20,4 +20,8 @@ public:
     void MA2() {
     std::cout << "MA2\n";
   }
+
+  void MA3() {
+    std::cout << "Alteração a partir do clone\n";
+  }
 };
